@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-639-feat-frontend-add-passphrase-strength-feedback",
+    "fix/issue-621-test-frontend-add-eventlist-component-tests",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-639-feat-frontend-add-passphrase-strength-feedback": "main",
+    "fix/issue-621-test-frontend-add-eventlist-component-tests": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-639-feat-frontend-add-passphrase-strength-feedback",
+    "fix/issue-621-test-frontend-add-eventlist-component-tests",
+    "origin"
+  ]
+}
